@@ -1,0 +1,14 @@
+# Worker Libs
+celery[redis]
+watchdog
+pydantic
+python-multipart
+python-dotenv
+Pillow
+pilgram
+# Development
+debugpy
+# Test
+pytest
+# Common module interface to mongoDB
+git+https://github.com/alfon96/file_flow_common.git@v0.4.1
